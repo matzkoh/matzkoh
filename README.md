@@ -34,7 +34,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=matzkoh&amp;margin-w=4&amp;margin-h=4" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=matzkoh&amp;rank=-%3F&amp;margin-w=4&amp;margin-h=4" /></a>
 </p>
 
 <p>
