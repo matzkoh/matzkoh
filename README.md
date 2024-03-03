@@ -11,7 +11,7 @@
   <img width="20" height="20" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img width="20" height="20" alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
   <img width="20" height="20" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img width="20" height="20" alt="nestjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
+  <img width="20" height="20" alt="nestjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
   <img width="20" height="20" alt="nextjs" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
   <img width="20" height="20" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
   <img width="20" height="20" alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
