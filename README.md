@@ -30,7 +30,7 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="150" alt="matzkoh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=matzkoh&amp;show_icons=true&amp;count_private=true" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzkoh&amp;layout=compact" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzkoh&amp;hide=html,javascript&amp;layout=compact" /></a>
 </p>
 
 <p>
